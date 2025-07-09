@@ -16,9 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-![try hackme stats](https://github.com/suhuf/suhuf/blob/main/assets/tryhackme-badge.png)(https://tryhackme.com/p/suhuf)
-
-
 ![<img src="https://tryhackme-badges.s3.amazonaws.com/suhuf.png" alt="Your Image Badge" />]
 
 
