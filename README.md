@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-[![tryhackme stats](https://raw.githubusercontent.com/suhuf/suhuf/master/assets/thm_propic.png)](https://tryhackme-badges.s3.amazonaws.com/suhuf.png)
+[![tryhackme stats](https://raw.githubusercontent.com/suhuf/suhuf/master/assets/thm_propic.png)]
