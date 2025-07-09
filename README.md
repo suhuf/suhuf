@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5138271" style='border:none;'></iframe>
+![tryhackme stats](https://raw.githubusercontent.com/suhuf/suhuf/master/assets/thm_propic.png)
