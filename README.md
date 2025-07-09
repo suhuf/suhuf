@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 
-https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5138271
+![https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5138271]
 
