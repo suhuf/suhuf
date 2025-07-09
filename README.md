@@ -16,5 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-![https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5138271]
+[![TryHackMe Badge](assets/tryhackme-badege.png)](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5138271)
+
+
 
