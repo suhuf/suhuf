@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-[![TryHackMe Badge]([(assets/tryhackme-badge.png)](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5138271)
+![https://github.com/suhuf/suhuf/blob/main/assets/tryhackme-badge.png]
 
 
 
