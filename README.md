@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-![https://github.com/suhuf/suhuf/blob/main/assets/tryhackme-badge.png]
+![try hackme stats](https://github.com/suhuf/suhuf/blob/main/assets/tryhackme-badge.png)
+
 
 
 
