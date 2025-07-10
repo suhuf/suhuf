@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <a href="https://tryhackme.com/p/suhuf">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/suhuf.png1" alt="Your Image Badge" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/suhuf.png" alt="Your Image Badge" />
 </a>
 
 
