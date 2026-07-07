@@ -19,5 +19,6 @@ Here are some ideas to get you started:
   <img src="https://tryhackme-badges.s3.amazonaws.com/suhuf.png?v3" alt="Your Image Badge" />
 </a>
 
-Hack the Box:
-https://profile.hackthebox.com/profile/019f3c8d-8bb8-7308-a1c0-81b38f3764c1
+<a href="https://profile.hackthebox.com/profile/019f3c8d-8bb8-7308-a1c0-81b38f3764c1">
+  <img width="758" height="200" alt="image" src="https://github.com/user-attachments/assets/f3d8754b-c63e-4f78-8028-56d39609f4bb" />
+</a>
